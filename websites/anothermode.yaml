@@ -1,0 +1,12 @@
+id: QmbxpX8KLcXjF3vCXAAEweNcBU8k1bobmR9a2nhyFHmqvz
+description: ""
+tags: []
+domains:
+    - GeneratedDomain
+source:
+    paths:
+        - /
+    branch: main
+    github:
+        id: 1008401558
+        fullname: sd031/tb_website_anothermode
